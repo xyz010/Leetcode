@@ -14,7 +14,6 @@ class Solution(object):
             i += 1
         
         total_2 = 0
-       # i += 1
         if i > len(A):
             return False
         while total_2 != subTotal and i < len(A):
@@ -23,7 +22,6 @@ class Solution(object):
             i +=1
         
         total_3 = 0
-        #i +=1
         if i > len(A):
             return False
         while total_3 != subTotal and i < len(A):
@@ -33,4 +31,3 @@ class Solution(object):
         if total_1 == total_2 and total_2 == total_3:
             return True
         return False
-        
