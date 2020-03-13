@@ -1,7 +1,7 @@
 # Welcome to my Github Repository. 
-## Here you can find my coding solutions to a number of Leetcode Challennges. Feel free to comment and propose changes and imporvements
+### Here you can find my coding solutions to a number of Leetcode Challenges. Feel free to comment and propose changes and imporvements
 
-### List of Solved Problems:
+#### List of Solved Problems:
 1. 101 Symmetric Tree
 1. 1013 Partition Array Into Three Parts With Equal Sum
 1. 102 Binary Tree Level Order Traversal
